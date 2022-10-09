@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiuTe
 - 👀 interested in Bioinformatics
 - 🌱 currently learning python,linux,git
-- 💞️ With 4 years' computer science and technology education and 5 years' development working experience.
+- 💞️ With 4 years' computer science and Bioinformatics education and 1 years' development working experience.
 - 📫 B.S. in Bioinformatics @Soochow University
