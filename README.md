@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @DiuTe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DiuTe/DiuTe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 interested in Bioinformatics
+- 🌱 currently learning python,linux,git
+- 💞️ With 4 years' computer science and technology education and 5 years' development working experience.
+- 📫 B.S. in Bioinformatics @Soochow University
